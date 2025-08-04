@@ -1,7 +1,8 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
-import App from "./App";
-import "./firebaseConfig"; // initialize firebase
+// index.js
+import { HashRouter } from "react-router-dom";
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<App />);
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <HashRouter>
+    <App />
+  </HashRouter>
+);
