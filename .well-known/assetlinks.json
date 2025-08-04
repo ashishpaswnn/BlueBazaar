@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ASHU.DigitalStore",
+      "sha256_cert_fingerprints": [
+        "C8:EC:46:35:C5:54:A7:37:F2:5A:50:25:05:9C:BB:47:A4:BD:FC:CE:3C:08:97:C4:3A:91:35:6D:C9:25:70:C2"
+      ]
+    }
+  }
+]
