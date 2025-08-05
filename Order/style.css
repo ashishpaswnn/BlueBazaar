@@ -20,8 +20,8 @@
     border: 0;
     background: var(--dark);
     position: relative;
-    height: 63px;
-    width: 240px;
+    height: 100dp;
+    width: 100dp;
     padding: 0;
     outline: none;
     cursor: pointer;
@@ -439,4 +439,5 @@
   body .dribbble img {
     display: block;
     height: 28px;
+
   }
