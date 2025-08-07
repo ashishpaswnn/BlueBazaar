@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact Us - BlueBazaar.store</title>
+</head>
+<body style="font-family: Arial, sans-serif; padding: 20px; line-height: 1.6; color: #333;">
+  <h1>Contact Us</h1>
+
+  <p>If you have any questions, suggestions, or need help with anything related to your order or our services, feel free to reach out to us. We’re here to help!</p>
+
+  <h2>📧 Email Support</h2>
+  <p>For general queries, order issues, returns, or feedback, contact us at:</p>
+  <p><strong>Email:</strong> <a href="mailto:support@bluebazaar.store">support@bluebazaar.store</a></p>
+
+  <h2>📱 WhatsApp / Phone Support</h2>
+  <p>You can also message us on WhatsApp:</p>
+  <p><strong>WhatsApp:</strong> <a href="https://wa.me/91XXXXXXXXXX">+91 XXXXXXXXXX</a> (10:00 AM – 6:00 PM IST)</p>
+
+  <h2>📍 Business Address</h2>
+  <p>BlueBazaar.store<br>
+  ABC Complex, Near XYZ Road,<br>
+  New Delhi – 110001<br>
+  India</p>
+
+  <h2>🕒 Customer Service Hours</h2>
+  <p>Monday to Saturday: 10:00 AM – 6:00 PM<br>
+  Sunday: Closed</p>
+
+  <h2>📲 Social Media</h2>
+  <ul>
+    <li><strong>Instagram:</strong> <a href="https://instagram.com/bluebazaar.store" target="_blank">@bluebazaar.store</a></li>
+    <li><strong>Facebook:</strong> <a href="https://facebook.com/bluebazaar.store" target="_blank">BlueBazaar.store</a></li>
+  </ul>
+
+  <p><em>We usually respond within 24 hours on business days.</em></p>
+
+  <p><em>Last Updated: August 7, 2025</em></p>
+</body>
+</html>
